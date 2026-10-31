@@ -4,7 +4,7 @@ A Power BI project that brings real estate sales, payment information, and proje
 
 The report combines an executive overview with dedicated pages for **Degla Landmark** and **Zahra North Coast**, helping users explore property values, payments, and sales trends through visual summaries and filters.
 
-![Elmorshedy Group dashboard overview](images/main_page.png)
+![Elmorshedy Group dashboard overview](images/work/main_page.png)
 
 ## Business Objective
 
@@ -25,11 +25,11 @@ Real estate reporting needs to connect high-level performance with the details b
 
 ### Degla Landmark
 
-![Degla Landmark sales dashboard](images/degla_page.png)
+![Degla Landmark sales dashboard](images/work/degla_page.png)
 
 ### Zahra North Coast
 
-![Zahra North Coast sales dashboard](images/zahra_page.png)
+![Zahra North Coast sales dashboard](images/work/zahra_page.png)
 
 ## Analytical Focus
 
